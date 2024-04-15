@@ -37,14 +37,14 @@ const htmlBuilder = (first_name, last_name, id) => {
                               below:<br /><br />
                               <div>
                                 <center><a target="_blank"
-                                    href="https://hemanthnvd.com/v1/user/verify?id=${id}"
+                                    href="https://hemanthnvd.com/v2/user/verify?id=${id}"
                                     style="font-size:16px;color:white;border-top:1px #0075cb solid;width:280px;border-left:1px #0075cb solid;font-weight:600;background-color:#0075cb;border-radius:3px;border-right:1px #0075cb solid;border-bottom:1px #0075cb solid;padding:14px 7px 14px 7px;max-width:280px;font-family:arial,verdana,tahoma,sans-serif;text-align:center;text-decoration:none;margin:0px auto 0px auto;display:block">Verify
                                     Account</a></center>
                               </div><br />
                               If the above link doesn't work, please copy and paste the following link into your browser
                               address bar:<br /><br />
                               <div style="max-width: 450px; word-wrap: break-word;">
-                                https://hemanthnvd.com/v1/user/verify?id=${id}
+                                https://hemanthnvd.com/v2/user/verify?id=${id}
                               </div><br />
                               NOTE: This link will expire after 2 minutes.<br /><br />
                               If this account was not created by you, please don't click on the above link and contact
